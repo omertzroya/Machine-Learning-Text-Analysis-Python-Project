@@ -1,6 +1,8 @@
 <div align="center">
   <img src="project_logo.png" alt="Project Logo" width="200">
-  <h1>⭐️Gender Prediction from Text⭐️ 🕵️‍♀️🕵️‍♂️</h1>
+  <h1>⭐️Gender Prediction 
+    from Text⭐️
+    🕵️‍♀️🕵️‍♂️</h1>
 </div>
 
 <p align="center">
@@ -19,7 +21,7 @@ This project coming to create a machine learning flow that represented all the s
 from pre-proccesing to the cross validation split, using piplines for machine learning models.
 The project's goal is to evaluate the f1 macro score that we get in the cross val step , take those great models we've found and with them predict wheater text from the given courpus has written by a female or 
 a maale.
-For sun up, save the result into a CSV file.
+For sum up, save the result into a CSV file.
 
 ## 🚀 Features
 
