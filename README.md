@@ -22,6 +22,7 @@
 - Libraries: NumPy, Pandas, scikit-learn, and re (for regular expressions)
 - Text analysis techniques integrated with machine learning models
 - Tokenized the text to vectors
+- Implementing a correct machine learning flow according to the steps.
 
 🔍 The project adheres to certain restrictions:
 - Limited to the mentioned libraries, no external modules
@@ -53,4 +54,4 @@ To get started with the project, follow these steps:
 5. Open a pull request.
 
 ## License
-📝 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+📝 This project is licensed under the Roy Chen & Omer Tzroya License. See the [LICENSE](LICENSE) file for details.
