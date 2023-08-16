@@ -5,6 +5,7 @@
 </div>
 
 ## Table of Contents
+- [About Us](#About Us)
 - [Description](#description)
 - [Tools and Features](#tools-and-features)
 - [Results](#results)
@@ -12,6 +13,12 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## About Us
+👨🏽‍💻 Roy Chen and Omer Tzroya,
+Third year Computer Science students at H.I.T.,
+We really like Python, we have a passion for experimenting with new things and interesting technologies.
+This is our final project in the machine learning course.
 
 ## Description
 📚 This project focuses on predicting the gender of the author based on textual content. The task involves training machine learning models to classify whether a given text is written by a male or female author. The primary metric used to evaluate the model's performance is the F1-score, taking into account both precision and recall.
