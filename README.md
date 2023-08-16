@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1>🌟 Gender Prediction from Text🌟<br/> 🕵️‍♀️🕵️‍♂️</h1>
+  <h1>🌟Gender Prediction from Text🌟<br/> 🕵️‍♀️🕵️‍♂️</h1>
   <p>Predicting gender based on text using machine learning models.</p>
 </div>
 
