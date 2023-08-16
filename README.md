@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="URL_OF_YOUR_IMAGE" alt="Project Logo" width="200">
-  <h1>Gender Prediction from Text 🕵️‍♀️🕵️‍♂️</h1>
+ 
+  <h1>🌟 Gender Prediction from Text🌟<br/> 🕵️‍♀️🕵️‍♂️</h1>
   <p>Predicting gender based on text using machine learning models.</p>
 </div>
 
