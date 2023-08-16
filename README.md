@@ -5,7 +5,7 @@
 </div>
 
 ## Table of Contents
-- [About Us](#About Us)
+- [About Us](#About-Us)
 - [Description](#description)
 - [Tools and Features](#tools-and-features)
 - [Results](#results)
