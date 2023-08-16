@@ -21,6 +21,7 @@
 - Python
 - Libraries: NumPy, Pandas, scikit-learn, and re (for regular expressions)
 - Text analysis techniques integrated with machine learning models
+- Tokenized the text to vectors
 
 🔍 The project adheres to certain restrictions:
 - Limited to the mentioned libraries, no external modules
