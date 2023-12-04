@@ -49,12 +49,12 @@ To get started with the project, follow these steps:
 5. Use the trained model to predict the gender of test examples from `corpus_for_test.csv`.
 
 ## Contributing
-🤝 Contributions are welcome! If you'd like to contribute to this project, follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push the changes to your branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
+
+Feel free to contribute to the project by opening issues or creating pull requests. 
 
 ## License
-📝 This project is licensed under the Roy Chen & Omer Tzroya License. See the [LICENSE](LICENSE) file for details.
+
+![GitHub](https://img.shields.io/github/license/ItsAlexanderPopov/Simon-game)
+
+
+---
