@@ -16,7 +16,7 @@
 
 ## About Us
 👨🏽‍💻 Omer Tzroya,
-Third year Computer Science students at H.I.T.,
+Third year Computer Science students at H.I.T.
 I really like Python, I have a passion for experimenting with new things and interesting technologies.
 This is our final project in the machine learning course.
 
