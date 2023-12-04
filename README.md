@@ -4,16 +4,16 @@
 </div>
 
 ## About Us
-👨🏽‍💻 Omer Tzroya,
+Omer Tzroya,
 Third year Computer Science students at H.I.T.
 I really like Python, I have a passion for experimenting with new things and interesting technologies.
 This is our final project in the machine learning course.
 
 ## Description
-📚 This project focuses on predicting the gender of the author based on textual content. The task involves training machine learning models to classify whether a given text is written by a male or female author. The primary metric used to evaluate the model's performance is the F1-score, taking into account both precision and recall.
+This project focuses on predicting the gender of the author based on textual content. The task involves training machine learning models to classify whether a given text is written by a male or female author. The primary metric used to evaluate the model's performance is the F1-score, taking into account both precision and recall.
 
 ## Tools and Features
-🛠️ This project is built using the following materials and tools:
+ This project is built using the following materials and tools:
 - Python
 - Libraries: NumPy, Pandas, scikit-learn, and re (for regular expressions)
 - Text analysis techniques integrated with machine learning models
@@ -23,13 +23,13 @@ This is our final project in the machine learning course.
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 
-🔍 The project adheres to certain restrictions:
+The project adheres to certain restrictions:
 - Limited to the mentioned libraries, no external modules
 - No external files or lists of words
 - The data is provided in CSV format for training and testing
 
 ## Results
-📊 The model's performance is evaluated using the F1-score.<br/>
+ The model's performance is evaluated using the F1-score.<br/>
 The F1-score is calculated for both male and female classes, and the average F1-score is computed to<br/>
 provide an overall assessment of the model's effectiveness.<br/>
 The best model we tested is the Perceptron , with F1 score of 0.73
