@@ -4,16 +4,6 @@
   <p>Predicting gender based on text using machine learning models.</p>
 </div>
 
-## Table of Contents
-- [About Us](#About-Us)
-- [Description](#description)
-- [Tools and Features](#tools-and-features)
-- [Results](#results)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About Us
 👨🏽‍💻 Omer Tzroya,
 Third year Computer Science students at H.I.T.
