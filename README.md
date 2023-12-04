@@ -3,12 +3,6 @@
   <p>Predicting gender based on text using machine learning models.</p>
 </div>
 
-## About Us
-Omer Tzroya,
-Third year Computer Science students at H.I.T.
-I really like Python, I have a passion for experimenting with new things and interesting technologies.
-This is our final project in the machine learning course.
-
 ## Description
 This project focuses on predicting the gender of the author based on textual content. The task involves training machine learning models to classify whether a given text is written by a male or female author. The primary metric used to evaluate the model's performance is the F1-score, taking into account both precision and recall.
 
